@@ -11,6 +11,7 @@ LGPL
 #include <lauxlib.h>
 
 #include <magic.h>
+#include <assert.h>
 
 #define MODULE_NAME "magic"
 #ifndef MODULE_VERSION
